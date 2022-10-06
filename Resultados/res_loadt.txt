@@ -1,0 +1,3 @@
+150 patients and information about 150 clinical data was reading!
+
+Press any key to continue . . .

@@ -1,0 +1,19 @@
+﻿  main.c
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(418): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(419): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(420): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(421): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(405): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(406): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(407): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(408): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(409): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(480): warning C4018: '<': signed/unsigned mismatch
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(530): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(539): warning C4018: '<': signed/unsigned mismatch
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(567): warning C4101: 'old': unreferenced local variable
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(589): warning C4101: 'old': unreferenced local variable
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(618): warning C4101: 'old': unreferenced local variable
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(675): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(677): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ProjetoFinal ATAD.vcxproj -> C:\Users\eufra\OneDrive\Documents\Faculdade\2018-2019\2º Semestre\ATAD\Projeto\ProjetoFinal ATAD\Debug\ProjetoFinal ATAD.exe

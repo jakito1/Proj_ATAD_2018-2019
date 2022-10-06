@@ -1,0 +1,458 @@
+﻿  date.c
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(6): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(7): error C2059: syntax error: '}'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(10): error C2061: syntax error: identifier 'dateCreate'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(10): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(10): error C2059: syntax error: '<parameter-list>'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(11): error C2143: syntax error: missing ')' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(11): error C2143: syntax error: missing '{' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(11): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(12): error C2143: syntax error: missing ')' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(12): error C2143: syntax error: missing '{' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(12): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.c(22): error C2061: syntax error: identifier 'dateCreate'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.c(22): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.c(22): error C2059: syntax error: '<parameter-list>'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.c(33): error C2143: syntax error: missing ')' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.c(33): error C2143: syntax error: missing '{' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.c(33): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.c(33): error C2054: expected '(' to follow 'ptr'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.c(37): error C2146: syntax error: missing ')' before identifier 'c'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.c(37): error C2061: syntax error: identifier 'c'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.c(37): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.c(37): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.c(37): error C2449: found '{' at file scope (missing function header?)
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.c(45): error C2059: syntax error: '}'
+  list.c
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(6): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(7): error C2059: syntax error: '}'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(10): error C2061: syntax error: identifier 'dateCreate'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(10): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(10): error C2059: syntax error: '<parameter-list>'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(11): error C2143: syntax error: missing ')' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(11): error C2143: syntax error: missing '{' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(11): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(12): error C2143: syntax error: missing ')' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(12): error C2143: syntax error: missing '{' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(12): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(27): error C2146: syntax error: missing ')' before identifier 'list'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(27): error C2081: 'PtList': name in formal parameter list illegal
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(27): error C2061: syntax error: identifier 'list'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(27): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(27): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(28): error C2146: syntax error: missing ')' before identifier 'list'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(28): error C2061: syntax error: identifier 'list'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(28): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(28): error C2059: syntax error: ','
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(28): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(37): error C2065: 'PtList': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(37): error C2146: syntax error: missing ';' before identifier 'patientList'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(37): error C2065: 'patientList': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(37): warning C4013: 'listCreate' undefined; assuming extern returning int
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(59): warning C4013: 'importData' undefined; assuming extern returning int
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(59): error C2065: 'patientList': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(60): warning C4013: 'listPrint' undefined; assuming extern returning int
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(60): error C2065: 'patientList': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(117): error C2146: syntax error: missing ')' before identifier 'list'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(117): error C2081: 'PtList': name in formal parameter list illegal
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(117): error C2061: syntax error: identifier 'list'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(117): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(117): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(117): error C2449: found '{' at file scope (missing function header?)
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(178): error C2059: syntax error: '}'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(30): error C2061: syntax error: identifier 'Date'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(35): error C2059: syntax error: '}'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(37): error C2146: syntax error: missing ')' before identifier 'c'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(37): error C2061: syntax error: identifier 'c'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(37): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(37): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(4): error C2061: syntax error: identifier 'ListElem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(4): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(6): error C2146: syntax error: missing ')' before identifier 'tempElem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(6): error C2061: syntax error: identifier 'tempElem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(6): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(6): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(31): error C2040: 'listCreate': 'PtList (unsigned int)' differs in levels of indirection from 'PtList (unsigned int)'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(56): error C2146: syntax error: missing ')' before identifier 'elem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(56): error C2081: 'ListElem': name in formal parameter list illegal
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(56): error C2061: syntax error: identifier 'elem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(56): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(56): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(70): error C2143: syntax error: missing ')' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(70): error C2081: 'ListElem': name in formal parameter list illegal
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(70): error C2143: syntax error: missing '{' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(70): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(84): error C2143: syntax error: missing ')' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(84): error C2081: 'ListElem': name in formal parameter list illegal
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(84): error C2143: syntax error: missing '{' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(84): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2146: syntax error: missing ')' before identifier 'elem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2081: 'ListElem': name in formal parameter list illegal
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2061: syntax error: identifier 'elem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2059: syntax error: ','
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(138): error C2371: 'listPrint': redefinition; different basic types
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(6): error C2061: syntax error: identifier 'ListElem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(9): error C2059: syntax error: '}'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(20): error C2065: 'ListImpl': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(23): error C2037: left of 'elements' specifies undefined struct/union 'listImpl'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(23): error C2065: 'ListElem': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(23): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(24): error C2037: left of 'elements' specifies undefined struct/union 'listImpl'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(29): error C2037: left of 'size' specifies undefined struct/union 'listImpl'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(30): error C2037: left of 'capacity' specifies undefined struct/union 'listImpl'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(48): error C2037: left of 'elements' specifies undefined struct/union 'listImpl'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(48): error C2198: 'free': too few arguments for call
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(69): error C2146: syntax error: missing ')' before identifier 'elem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(69): error C2081: 'ListElem': name in formal parameter list illegal
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(69): error C2061: syntax error: identifier 'elem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(69): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(69): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(69): error C2449: found '{' at file scope (missing function header?)
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(90): error C2059: syntax error: '}'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(136): error C2146: syntax error: missing ')' before identifier 'elem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(136): error C2081: 'ListElem': name in formal parameter list illegal
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(136): error C2061: syntax error: identifier 'elem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(136): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(136): error C2059: syntax error: ','
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(136): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(159): error C2143: syntax error: missing ')' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(159): error C2081: 'ListElem': name in formal parameter list illegal
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(159): error C2143: syntax error: missing '{' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(159): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(159): error C2054: expected '(' to follow 'ptElem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(181): error C2037: left of 'size' specifies undefined struct/union 'listImpl'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(196): error C2037: left of 'size' specifies undefined struct/union 'listImpl'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(211): error C2037: left of 'size' specifies undefined struct/union 'listImpl'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(225): error C2037: left of 'size' specifies undefined struct/union 'listImpl'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(228): error C2037: left of 'size' specifies undefined struct/union 'listImpl'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(230): warning C4013: 'listElemPrint' undefined; assuming extern returning int
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(230): error C2037: left of 'elements' specifies undefined struct/union 'listImpl'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.c(230): fatal error C1003: error count exceeds 100; stopping compilation
+  listElem.c
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(6): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(7): error C2059: syntax error: '}'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(10): error C2061: syntax error: identifier 'dateCreate'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(10): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(10): error C2059: syntax error: '<parameter-list>'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(11): error C2143: syntax error: missing ')' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(11): error C2143: syntax error: missing '{' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(11): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(12): error C2143: syntax error: missing ')' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(12): error C2143: syntax error: missing '{' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(12): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(56): error C2146: syntax error: missing ')' before identifier 'elem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(56): error C2081: 'ListElem': name in formal parameter list illegal
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(56): error C2061: syntax error: identifier 'elem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(56): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(56): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(70): error C2143: syntax error: missing ')' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(70): error C2081: 'ListElem': name in formal parameter list illegal
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(70): error C2143: syntax error: missing '{' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(70): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(84): error C2143: syntax error: missing ')' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(84): error C2081: 'ListElem': name in formal parameter list illegal
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(84): error C2143: syntax error: missing '{' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(84): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2146: syntax error: missing ')' before identifier 'elem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2081: 'ListElem': name in formal parameter list illegal
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2061: syntax error: identifier 'elem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2059: syntax error: ','
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(139): error C2065: 'Patient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(139): error C2146: syntax error: missing ';' before identifier 'tempPatient'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(139): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(140): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(140): error C2224: left of '.id' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(141): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(141): error C2224: left of '.birthdate' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(141): warning C4013: 'dateCreate' undefined; assuming extern returning int
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(142): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(142): error C2224: left of '.gender' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(143): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(143): error C2224: left of '.hospital' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(143): error C2198: 'strcpy': too few arguments for call
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(144): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(144): error C2224: left of '.district' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(144): error C2198: 'strcpy': too few arguments for call
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(145): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(145): error C2224: left of '.id' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(145): error C2198: 'getIdIndex': too few arguments for call
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(148): warning C4013: 'listAdd' undefined; assuming extern returning int
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(148): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(153): error C2065: 'Date': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(153): error C2146: syntax error: missing ';' before identifier 'tempDate'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(153): error C2065: 'tempDate': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(154): error C2065: 'tempDate': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(154): error C2224: left of '.year' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(154): error C2198: 'atoi': too few arguments for call
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(162): error C2065: 'Patient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(162): error C2146: syntax error: missing ';' before identifier 'temp'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(162): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(163): warning C4013: 'listGet' undefined; assuming extern returning int
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(163): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(164): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(164): error C2224: left of '.clinicalData' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(165): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(165): error C2224: left of '.clinicalData' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(166): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(166): error C2224: left of '.clinicalData' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(167): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(167): error C2224: left of '.clinicalData' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(168): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(168): error C2224: left of '.clinicalData' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(169): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(169): error C2224: left of '.clinicalData' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(170): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(170): error C2224: left of '.clinicalData' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(154): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(155): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(156): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(157): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(158): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(184): error C2065: 'Patient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(184): error C2146: syntax error: missing ';' before identifier 'temp'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(184): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(185): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(186): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(186): error C2224: left of '.id' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(30): error C2061: syntax error: identifier 'Date'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(35): error C2059: syntax error: '}'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(37): error C2146: syntax error: missing ')' before identifier 'c'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(37): error C2061: syntax error: identifier 'c'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(37): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(37): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(4): error C2061: syntax error: identifier 'ListElem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(4): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(6): error C2146: syntax error: missing ')' before identifier 'tempElem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(6): error C2061: syntax error: identifier 'tempElem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(6): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(6): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.c(4): error C2146: syntax error: missing ')' before identifier 'tempElem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.c(4): error C2061: syntax error: identifier 'tempElem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.c(4): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.c(4): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.c(4): error C2449: found '{' at file scope (missing function header?)
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.c(6): error C2059: syntax error: '}'
+  main.c
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(6): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(7): error C2059: syntax error: '}'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(10): error C2061: syntax error: identifier 'dateCreate'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(10): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(10): error C2059: syntax error: '<parameter-list>'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(11): error C2143: syntax error: missing ')' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(11): error C2143: syntax error: missing '{' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(11): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(12): error C2143: syntax error: missing ')' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(12): error C2143: syntax error: missing '{' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(12): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(27): error C2146: syntax error: missing ')' before identifier 'list'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(27): error C2081: 'PtList': name in formal parameter list illegal
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(27): error C2061: syntax error: identifier 'list'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(27): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(27): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(28): error C2146: syntax error: missing ')' before identifier 'list'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(28): error C2061: syntax error: identifier 'list'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(28): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(28): error C2059: syntax error: ','
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(28): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(37): error C2065: 'PtList': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(37): error C2146: syntax error: missing ';' before identifier 'patientList'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(37): error C2065: 'patientList': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(37): warning C4013: 'listCreate' undefined; assuming extern returning int
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(59): warning C4013: 'importData' undefined; assuming extern returning int
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(59): error C2065: 'patientList': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(60): warning C4013: 'listPrint' undefined; assuming extern returning int
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(60): error C2065: 'patientList': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(117): error C2146: syntax error: missing ')' before identifier 'list'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(117): error C2081: 'PtList': name in formal parameter list illegal
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(117): error C2061: syntax error: identifier 'list'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(117): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(117): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(117): error C2449: found '{' at file scope (missing function header?)
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(178): error C2059: syntax error: '}'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(30): error C2061: syntax error: identifier 'Date'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(35): error C2059: syntax error: '}'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(37): error C2146: syntax error: missing ')' before identifier 'c'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(37): error C2061: syntax error: identifier 'c'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(37): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(37): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(4): error C2061: syntax error: identifier 'ListElem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(4): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(6): error C2146: syntax error: missing ')' before identifier 'tempElem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(6): error C2061: syntax error: identifier 'tempElem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(6): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(6): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(31): error C2040: 'listCreate': 'PtList (unsigned int)' differs in levels of indirection from 'PtList (unsigned int)'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(56): error C2146: syntax error: missing ')' before identifier 'elem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(56): error C2081: 'ListElem': name in formal parameter list illegal
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(56): error C2061: syntax error: identifier 'elem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(56): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(56): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(70): error C2143: syntax error: missing ')' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(70): error C2081: 'ListElem': name in formal parameter list illegal
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(70): error C2143: syntax error: missing '{' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(70): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(84): error C2143: syntax error: missing ')' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(84): error C2081: 'ListElem': name in formal parameter list illegal
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(84): error C2143: syntax error: missing '{' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(84): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2146: syntax error: missing ')' before identifier 'elem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2081: 'ListElem': name in formal parameter list illegal
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2061: syntax error: identifier 'elem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2059: syntax error: ','
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(138): error C2371: 'listPrint': redefinition; different basic types
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(27): error C2371: 'importData': redefinition; different basic types
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(34): error C2084: function 'int main(int,char **)' already has a body
+  c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(34): note: see previous definition of 'main'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(102): error C2084: function 'int equalsStringIgnoreCase(char *,char *)' already has a body
+  c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(102): note: see previous definition of 'equalsStringIgnoreCase'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(106): error C2084: function 'void printCommandsMenu()' already has a body
+  c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(106): note: see previous definition of 'printCommandsMenu'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(139): error C2065: 'Patient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(139): error C2146: syntax error: missing ';' before identifier 'tempPatient'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(139): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(140): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(140): error C2224: left of '.id' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(141): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(141): error C2224: left of '.birthdate' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(141): warning C4013: 'dateCreate' undefined; assuming extern returning int
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(142): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(142): error C2224: left of '.gender' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(143): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(143): error C2224: left of '.hospital' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(143): error C2198: 'strcpy': too few arguments for call
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(144): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(144): error C2224: left of '.district' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(144): error C2198: 'strcpy': too few arguments for call
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(145): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(145): error C2224: left of '.id' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(145): error C2198: 'getIdIndex': too few arguments for call
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(148): warning C4013: 'listAdd' undefined; assuming extern returning int
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(148): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(153): error C2065: 'Date': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(153): error C2146: syntax error: missing ';' before identifier 'tempDate'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(153): error C2065: 'tempDate': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(154): error C2065: 'tempDate': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(154): error C2224: left of '.year' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(154): error C2198: 'atoi': too few arguments for call
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(162): error C2065: 'Patient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(162): error C2146: syntax error: missing ';' before identifier 'temp'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(162): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(163): warning C4013: 'listGet' undefined; assuming extern returning int
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(163): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(164): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(164): error C2224: left of '.clinicalData' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(164): fatal error C1003: error count exceeds 100; stopping compilation
+  patient.c
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(6): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(7): error C2059: syntax error: '}'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(10): error C2061: syntax error: identifier 'dateCreate'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(10): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(10): error C2059: syntax error: '<parameter-list>'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(11): error C2143: syntax error: missing ')' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(11): error C2143: syntax error: missing '{' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(11): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(12): error C2143: syntax error: missing ')' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(12): error C2143: syntax error: missing '{' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\date.h(12): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(4): error C2061: syntax error: identifier 'ListElem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(4): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(6): error C2146: syntax error: missing ')' before identifier 'tempElem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(6): error C2061: syntax error: identifier 'tempElem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(6): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\listelem.h(6): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(56): error C2146: syntax error: missing ')' before identifier 'elem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(56): error C2081: 'ListElem': name in formal parameter list illegal
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(56): error C2061: syntax error: identifier 'elem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(56): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(56): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(70): error C2143: syntax error: missing ')' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(70): error C2081: 'ListElem': name in formal parameter list illegal
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(70): error C2143: syntax error: missing '{' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(70): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(84): error C2143: syntax error: missing ')' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(84): error C2081: 'ListElem': name in formal parameter list illegal
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(84): error C2143: syntax error: missing '{' before '*'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(84): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2146: syntax error: missing ')' before identifier 'elem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2081: 'ListElem': name in formal parameter list illegal
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2061: syntax error: identifier 'elem'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2059: syntax error: ','
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\list.h(100): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(139): error C2065: 'Patient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(139): error C2146: syntax error: missing ';' before identifier 'tempPatient'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(139): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(140): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(140): error C2224: left of '.id' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(141): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(141): error C2224: left of '.birthdate' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(141): warning C4013: 'dateCreate' undefined; assuming extern returning int
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(142): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(142): error C2224: left of '.gender' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(143): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(143): error C2224: left of '.hospital' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(143): error C2198: 'strcpy': too few arguments for call
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(144): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(144): error C2224: left of '.district' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(144): error C2198: 'strcpy': too few arguments for call
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(145): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(145): error C2224: left of '.id' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(145): error C2198: 'getIdIndex': too few arguments for call
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(148): warning C4013: 'listAdd' undefined; assuming extern returning int
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(148): error C2065: 'tempPatient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(153): error C2065: 'Date': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(153): error C2146: syntax error: missing ';' before identifier 'tempDate'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(153): error C2065: 'tempDate': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(154): error C2065: 'tempDate': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(154): error C2224: left of '.year' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(154): error C2198: 'atoi': too few arguments for call
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(162): error C2065: 'Patient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(162): error C2146: syntax error: missing ';' before identifier 'temp'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(162): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(163): warning C4013: 'listGet' undefined; assuming extern returning int
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(163): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(164): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(164): error C2224: left of '.clinicalData' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(165): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(165): error C2224: left of '.clinicalData' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(166): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(166): error C2224: left of '.clinicalData' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(167): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(167): error C2224: left of '.clinicalData' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(168): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(168): error C2224: left of '.clinicalData' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(169): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(169): error C2224: left of '.clinicalData' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(170): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(170): error C2224: left of '.clinicalData' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(154): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(155): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(156): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(157): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(158): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(184): error C2065: 'Patient': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(184): error C2146: syntax error: missing ';' before identifier 'temp'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(184): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(185): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(186): error C2065: 'temp': undeclared identifier
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\main.c(186): error C2224: left of '.id' must have struct/union type
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(30): error C2061: syntax error: identifier 'Date'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(35): error C2059: syntax error: '}'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(37): error C2146: syntax error: missing ')' before identifier 'c'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(37): error C2061: syntax error: identifier 'c'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(37): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.h(37): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.c(3): error C2146: syntax error: missing ')' before identifier 'c'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.c(3): error C2061: syntax error: identifier 'c'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.c(3): error C2059: syntax error: ';'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.c(3): error C2059: syntax error: ')'
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.c(3): error C2449: found '{' at file scope (missing function header?)
+c:\users\eufra\onedrive\documents\faculdade\2018-2019\2º semestre\atad\projeto\projetofinal atad\projetofinal atad\patient.c(5): error C2059: syntax error: '}'
+  split.c
+  Generating Code...

@@ -1,0 +1,286 @@
+Ind Birthdate Sex Hospital                             District          Age Bmi   Glicose Insulin Mcp1
+Queue State:
+---- inicio ----
+  1 10/02/1969 F Hosp. S. Jose                         Lisboa             49 36,6132  88,5 11,1561  461,7325
+  2 04/02/1978 M Hosp. Distrital de Beja               Beja               40 29,6101 189,5 14,2379 1278,9343
+  3 25/08/1987 F Hosp. Distrital de Santarem           Santarem           30 28,3036 195,7  6,8943 1461,3281
+  6 25/05/1970 M Hosp. Distrital de Viseu              Viseu              47 37,2708 121,5 26,8617 1198,1979
+  7 18/04/1992 M Hosp. Distrital de Leiria             Leiria             26 29,3230  93,0 14,5638  598,7563
+  8 16/03/1973 F Hosp. Distrital de Faro               Faro               45 32,7384 102,0 57,4850  521,4106
+  9 24/05/1994 F Hosp. S. Jose                         Lisboa             24 29,1302 196,0 13,0779  753,4654
+ 11 30/05/1990 M Hosp. Distrital de Braganca           Braganca           27 33,8336  96,0 25,5252 1679,1050
+ 14 02/04/1986 F Hosp. Distrital de Aveiro             Aveiro             32 23,6713  86,5 39,4201 1148,1501
+ 15 09/06/1994 M Hosp. S. Jose                         Lisboa             24 25,5136  97,0 23,8942  777,0225
+ 17 09/07/1980 F Hosp. Distrital de Guarda             Guarda             37 26,4944 188,0 17,1999  695,4825
+ 19 15/03/1956 F Hosp. Distrital de Aveiro             Aveiro             61 27,0148  75,0 26,2162  138,0549
+ 20 02/08/1974 M Hosp. Universitario Coimbra           Coimbra            43 30,3914 121,0 53,7873  920,1286
+ 21 09/06/1974 M Hosp. Distrital de Evora              Evora              44 35,1077 149,5 33,2854 1690,8105
+ 25 28/03/1972 F Hosp. Distrital de Beja               Beja               46 27,9678 180,0 57,0366  154,7309
+ 32 23/08/1969 M Hosp. Eduardo Santos Silva            Porto              49 24,4794 116,0  6,6894 1458,5485
+ 34 05/05/1946 M Hosp. Distrital de Faro               Faro               72 27,5205 111,5 10,2126  709,8926
+ 36 03/05/1988 F Hosp. Distrital de Beja               Beja               30 24,3449  99,5 18,2856  504,5672
+ 37 29/08/1978 M Hosp. Distrital de Vila Real          Vila Real          39 20,9583 133,0 36,2105 1281,2129
+ 39 03/02/1965 F Hosp. Garcia da Horta                 Setubal            53 28,3852  95,0 28,2295 1451,5295
+ 41 02/03/1994 M Hosp. Distrital de Braganca           Braganca           24 21,6768  78,5 39,1531  716,9595
+ 43 24/08/1967 F Hosp. Distrital de Portalegre         Portalegre         51 32,6038 161,0 47,0148  429,4783
+ 44 13/09/1981 F Hosp. Sao Joao                        Porto              37 32,2538 160,5 34,3389 1135,9385
+ 46 01/07/1989 F Hosp. Distrital de Braganca           Braganca           29 20,0225 149,0 41,6735  789,8197
+ 49 17/03/1972 M Hosp. Universitario Coimbra           Coimbra            46 28,7399 185,5 49,1124 1130,6609
+ 52 14/05/1995 M Hosp. S. Maria                        Lisboa             23 36,4825 142,0 14,6161  972,8074
+ 53 07/03/1970 M Hosp. Distrital de Guarda             Guarda             48 33,2812 109,0 28,0237  433,9761
+ 55 03/09/1976 F Hosp. Distrital de Beja               Beja               41 24,1021 137,5 18,3366  209,5360
+ 57 02/06/1976 M Hosp. Distrital de Aveiro             Aveiro             41 31,7418  68,5 22,6781 1421,5476
+ 58 21/06/1966 F Hosp. Distrital de Viana do Castelo   Viana do Castelo   51 36,4014 191,0 28,5849 1367,5112
+ 59 06/04/1972 M Hosp. Eduardo Santos Silva            Porto              46 18,7831  91,0 34,6626  257,9453
+ 61 15/03/1976 M Hosp. Distrital de Viana do Castelo   Viana do Castelo   41 24,0142 187,0 29,2053 1309,4965
+ 63 16/07/1977 M Hosp. Distrital de Leiria             Leiria             41 20,5704 111,5  7,0718 1543,8228
+ 65 23/03/1964 F Hosp. Distrital de Castelo Branco     Castelo Branco     54 23,9948 118,5 24,6855 1171,1614
+ 67 23/02/1975 M Hosp. S. Jose                         Lisboa             43 26,5430  64,0 35,7425  872,8026
+ 69 06/09/1987 M Hosp. Distrital de Viana do Castelo   Viana do Castelo   30 22,2137  80,0 28,2864  564,0256
+ 73 07/07/1986 M Hosp. Sao Joao                        Porto              32 26,3193 181,5 15,6003  198,4921
+ 75 22/08/1986 M Hosp. Distrital de Faro               Faro               31 33,6403  91,0 30,3554 1659,8452
+ 77 08/04/1968 F Hosp. Distrital de Evora              Evora              50 18,8227  77,5 45,8428  902,9503
+ 79 19/09/1978 M Hosp. Distrital de Beja               Beja               39 18,9419 128,5 40,6487 1409,5297
+ 84 21/06/1979 M Hosp. Distrital de Santarem           Santarem           38 31,9176 188,5 55,7971 1145,6553
+ 87 27/02/1993 F Hosp. Sao Antonio                     Porto              25 23,1532  77,5 41,0140  527,4786
+ 91 13/08/1936 M Hosp. Garcia da Horta                 Setubal            81 21,4100  80,0 23,1997   65,8079
+ 92 15/04/1987 F Hosp. Distrital de Guarda             Guarda             31 34,2506 151,5 19,5554  434,3590
+ 93 13/02/1990 M Hosp. Sao Joao                        Porto              28 28,1658 102,0  6,4791  478,8555
+ 95 08/03/1967 M Hosp. S. Maria                        Lisboa             51 37,1467 126,0 50,4165  147,9568
+ 96 15/03/1994 M Hosp. Distrital de Vila Real          Vila Real          23 25,0018  83,0 26,3370  114,1181
+ 97 21/06/1994 M Hosp. Eduardo Santos Silva            Porto              23 29,8445 158,5 16,2266 1499,0399
+ 99 26/04/1981 M Hosp. Distrital de Beja               Beja               36 34,8591 151,5 32,7648 1569,5720
+100 26/03/1992 M Hosp. Eduardo Santos Silva            Porto              26 25,6937 192,5 14,9081   66,5520
+102 07/06/1992 M Hosp. Distrital de Guarda             Guarda             26 25,7537  87,5  8,2822  513,1758
+104 23/07/1986 F Hosp. Distrital de Santarem           Santarem           31 22,5635 128,5 52,8865  420,8613
+106 28/03/1970 M Hosp. Distrital de Vila Real          Vila Real          48 21,2412 100,0 47,1096 1203,2405
+107 21/05/1977 M Hosp. Distrital de Guarda             Guarda             40 19,3098 193,5 16,3049  281,3519
+108 27/04/1984 M Hosp. Distrital de Braga              Braga              34 25,9923  88,0  6,1313  314,3784
+109 03/02/1966 F Hosp. Sao Joao                        Porto              52 19,1926 115,5 30,3025  674,6029
+110 21/08/1997 F Hosp. Universitario Coimbra           Coimbra            21 23,1975 177,5 33,6224  454,8824
+112 07/07/1986 M Hosp. Distrital de Leiria             Leiria             31 26,8203  74,5 36,6638  129,0721
+113 11/05/1974 M Hosp. Distrital de Guarda             Guarda             44 31,2823  72,0 38,7194  796,2333
+114 10/03/1941 M Hosp. Distrital de Santarem           Santarem           77 19,4438 129,5  5,8500  470,3582
+115 10/03/1966 F Hosp. Distrital de Beja               Beja               52 25,4174 116,0 55,1602  461,2516
+117 05/02/1984 F Hosp. Distrital de Castelo Branco     Castelo Branco     34 32,8873 169,5 19,9188 1300,0100
+118 27/01/1992 F Hosp. S. Jose                         Lisboa             26 29,9931 133,5 25,4150  180,3365
+120 14/09/1984 M Hosp. Sao Antonio                     Porto              33 29,4216 102,0 47,5722  423,6201
+121 19/07/1989 M Hosp. Distrital de Santarem           Santarem           29 20,1406  93,0 25,8848  224,3042
+123 08/06/1965 M Hosp. Distrital de Viana do Castelo   Viana do Castelo   52 27,1205  84,5 55,3144  121,1898
+124 08/07/1936 M Hosp. S. Maria                        Lisboa             82 19,9492  63,5  9,8532  738,0632
+125 20/07/1977 M Hosp. Distrital de Viana do Castelo   Viana do Castelo   41 33,6622 109,5  6,4370 1097,0620
+126 05/07/1993 F Hosp. Distrital de Viseu              Viseu              24 36,8941 194,0 42,4421  347,4648
+128 04/06/1963 F Hosp. Sao Antonio                     Porto              54 32,9767  97,5 14,4618 1337,6709
+129 15/05/1985 M Hosp. Distrital de Viana do Castelo   Viana do Castelo   32 24,5317 175,0  7,7646 1638,2015
+130 10/09/1979 M Hosp. Garcia da Horta                 Setubal            38 21,6517 153,0 31,5568  122,8069
+131 02/02/1978 F Hosp. Distrital de Santarem           Santarem           40 34,4671 108,0 55,2579 1088,3901
+133 11/07/1979 F Hosp. Distrital de Aveiro             Aveiro             39 34,3308  99,5 14,8842 1291,7229
+134 09/07/1957 F Hosp. Distrital de Braganca           Braganca           61 24,5964  78,5  9,2381  454,7968
+136 08/04/1974 M Hosp. Distrital de Castelo Branco     Castelo Branco     44 27,5002 135,5 34,7382  991,5396
+138 10/02/1994 F Hosp. Eduardo Santos Silva            Porto              24 21,9086 118,5 47,3575  113,6165
+139 16/02/1980 F Hosp. Distrital de Guarda             Guarda             38 37,5215 165,5  7,6143 1026,7639
+143 22/05/1993 F Hosp. Garcia da Horta                 Setubal            25 21,9484 197,5 13,8302 1529,9254
+144 06/02/1985 F Hosp. Sao Bernardo                    Setubal            33 34,9243 154,5 10,7100 1571,4559
+146 14/04/1978 F Hosp. S. Jose                         Lisboa             39 36,5427 148,0 11,0122  405,0898
+147 28/05/1967 M Hosp. Sao Bernardo                    Setubal            51 23,5292 153,5 10,0285 1305,0929
+148 16/09/1990 F Hosp. Distrital de Vila Real          Vila Real          27 18,2309 130,0 15,3940  654,2954
+152 12/09/1989 F Hosp. Distrital de Guarda             Guarda             28 29,0867  82,5 11,7859 1461,8276
+153 24/04/1984 F Hosp. Sao Bernardo                    Setubal            34 27,0593  69,5 19,1376 1105,1647
+155 30/01/1990 F Hosp. Distrital de Vila Real          Vila Real          28 29,4412 178,5 56,3905 1332,5603
+156 31/03/1980 M Hosp. Distrital de Braga              Braga              38 19,9411  92,0 24,8026  942,1716
+157 05/05/1968 F Hosp. Sao Antonio                     Porto              50 35,3996 134,0 23,1012  302,2095
+159 20/05/1967 M Hosp. S. Jose                         Lisboa             51 30,5060 114,0 28,4137 1348,4209
+166 10/09/1986 F Hosp. S. Maria                        Lisboa             31 32,9856 154,0 50,4421 1044,1400
+167 27/02/1990 M Hosp. Distrital de Santarem           Santarem           27 36,6147  81,0 31,4788 1381,7498
+170 27/01/1996 F Hosp. Distrital de Evora              Evora              22 24,0107 178,5 35,9558 1131,8223
+172 02/02/1965 M Hosp. Distrital de Portalegre         Portalegre         53 28,2140 103,5  2,9180   74,3468
+174 15/09/1977 M Hosp. Distrital de Braganca           Braganca           40 26,3488 118,0 12,4247 1211,0222
+176 07/07/1990 F Hosp. S. Jose                         Lisboa             27 26,1965 173,0 43,1803  953,4324
+177 19/06/1977 M Hosp. Distrital de Portalegre         Portalegre         41 24,0581 184,5 51,4240 1452,6450
+178 16/03/1988 F Hosp. Sao Antonio                     Porto              29 26,3981  88,5 33,6490 1103,8032
+179 09/07/1988 F Hosp. Distrital de Evora              Evora              30 28,3713 104,0 21,8438  484,4462
+180 07/02/1967 M Hosp. Distrital de Aveiro             Aveiro             51 33,1901 194,5 53,3920 1383,8523
+181 18/05/1995 M Hosp. Universitario Coimbra           Coimbra            23 19,7178  94,0 33,5374  960,1586
+182 17/04/1980 M Hosp. S. Jose                         Lisboa             38 27,4630 136,0 33,0359  842,2445
+183 02/09/1969 M Hosp. Universitario Coimbra           Coimbra            48 33,3783  99,5 21,8430  108,5597
+184 07/02/1969 M Hosp. Distrital de Vila Real          Vila Real          49 20,7416 165,5 26,6481 1523,1874
+185 10/04/1974 M Hosp. Distrital de Castelo Branco     Castelo Branco     43 35,5681  77,0 33,8188  423,9451
+186 07/07/1972 F Hosp. S. Jose                         Lisboa             46 19,3876 195,0 25,5632 1376,8793
+187 02/04/1948 F Hosp. Distrital de Beja               Beja               70 22,1011  98,5 11,1978  637,9142
+189 10/08/1998 F Hosp. Distrital de Vila Real          Vila Real          19 19,6761 188,0 54,6693 1523,0398
+190 06/02/1936 F Hosp. Distrital de Santarem           Santarem           82 18,6325  96,0 24,5933  171,6719
+192 15/06/1991 F Hosp. Distrital de Santarem           Santarem           27 22,9214 119,5 47,2524 1683,9528
+193 16/03/1969 F Hosp. Universitario Coimbra           Coimbra            49 33,0563 179,5 53,9807  388,7017
+194 19/09/1976 F Hosp. Distrital de Beja               Beja               41 24,0180  67,0  3,0450  374,2839
+195 27/05/1955 M Hosp. Distrital de Vila Real          Vila Real          63 26,9709 115,5  8,1987  381,5084
+197 22/05/1965 F Hosp. Distrital de Braga              Braga              53 18,1512 104,0 22,3747  320,9249
+200 02/09/1993 M Hosp. Distrital de Braga              Braga              24 35,8595 143,0 48,2593 1411,8457
+202 18/06/1976 F Hosp. Distrital de Braga              Braga              41 31,8651 116,5 34,8787  972,8962
+205 03/02/1998 F Hosp. Distrital de Faro               Faro               20 18,8300 128,5 12,1212 1542,0215
+206 19/05/1994 F Hosp. Sao Antonio                     Porto              24 29,7504 139,0 39,1288 1054,5630
+207 23/09/1964 F Hosp. Distrital de Viana do Castelo   Viana do Castelo   53 33,0354  77,5 16,7798  238,1371
+208 30/01/1978 F Hosp. Distrital de Beja               Beja               40 34,4966 107,5 26,6803  413,6071
+209 29/04/1996 F Hosp. Distrital de Guarda             Guarda             21 36,4402 135,5 46,5633  888,1354
+213 30/01/1978 F Hosp. Distrital de Faro               Faro               40 36,9860 193,5 19,7965  370,2876
+215 17/07/1977 M Hosp. Distrital de Braga              Braga              41 26,2532 187,5 27,5689 1292,2949
+218 02/07/1995 M Hosp. Garcia da Horta                 Setubal            22 22,0016 101,5  3,1354 1018,4786
+222 12/06/1993 M Hosp. Distrital de Braga              Braga              25 26,9241 133,0 51,4992 1574,5656
+223 06/02/1974 F Hosp. Distrital de Leiria             Leiria             44 31,4997  93,0 54,9128 1692,0221
+227 21/09/1992 M Hosp. Sao Joao                        Porto              25 29,0957  96,5 48,8439 1604,0786
+229 21/07/1971 F Hosp. Distrital de Castelo Branco     Castelo Branco     46 31,4504 155,5 31,0494  588,0541
+231 21/02/1997 M Hosp. Sao Joao                        Porto              21 23,5972 127,0 52,9473  665,7416
+232 21/04/1984 F Hosp. Sao Joao                        Porto              34 18,6962  93,5 32,4768  846,4368
+233 23/03/1975 M Hosp. Eduardo Santos Silva            Porto              43 30,4147  87,5 36,5909 1612,5066
+234 28/07/1990 F Hosp. Distrital de Faro               Faro               27 35,4311 153,0 37,3566  386,5241
+235 17/04/1964 F Hosp. Distrital de Leiria             Leiria             53 29,1641 165,0 33,6670 1642,6772
+236 05/09/1998 M Hosp. Distrital de Vila Real          Vila Real          19 35,3149 171,0 22,2125 1552,4929
+237 27/05/1986 M Hosp. Distrital de Guarda             Guarda             31 22,1622 162,0 44,5438  711,1793
+238 21/08/1966 M Hosp. Universitario Coimbra           Coimbra            51 31,9319 179,0 45,5187 1157,1826
+240 06/03/1986 M Hosp. S. Jose                         Lisboa             32 22,4790  88,5 50,3967  244,0043
+241 27/02/1973 F Hosp. Eduardo Santos Silva            Porto              45 32,2957  74,5 11,2866  462,6244
+242 02/04/1965 F Hosp. S. Maria                        Lisboa             53 28,1660 159,5 34,6078  616,1786
+243 12/07/1985 F Hosp. Distrital de Leiria             Leiria             33 19,6221 177,5  4,1532  670,6944
+245 09/08/1966 F Hosp. Distrital de Portalegre         Portalegre         52 33,4647 192,5  3,9055  817,5674
+246 21/07/1997 F Hosp. Distrital de Portalegre         Portalegre         20 34,3254  78,5 57,6655 1077,2114
+248 02/02/1989 F Hosp. Universitario Coimbra           Coimbra            29 25,0321 191,5 24,5434 1147,1707
+249 10/03/1991 F Hosp. Universitario Coimbra           Coimbra            27 33,9566 146,5 46,2808 1702,0228
+251 14/05/1966 M Hosp. Distrital de Braganca           Braganca           51 35,6762 156,5 30,5778  994,5418
+253 18/08/1975 F Hosp. Sao Joao                        Porto              43 32,6553 128,0  4,0057 1478,6638
+255 31/08/1966 F Hosp. Distrital de Beja               Beja               51 32,6842 164,0 24,9389  310,5878
+257 16/08/1965 M Hosp. S. Jose                         Lisboa             53 18,8984  86,5 12,4283  859,3022
+258 19/04/1986 M Hosp. Distrital de Portalegre         Portalegre         32 22,6850  65,0 47,0029  611,7757
+260 03/07/1982 M Hosp. Distrital de Portalegre         Portalegre         36 33,7798 101,5 13,5084 1029,0958
+262 07/06/1964 F Hosp. Sao Antonio                     Porto              54 33,4126  90,5 53,2288  931,9999
+263 24/04/1967 F Hosp. Distrital de Vila Real          Vila Real          51 19,9758 172,5 56,4743  449,4092
+269 09/05/1997 F Hosp. Distrital de Viana do Castelo   Viana do Castelo   21 35,7837 177,0 24,0010  460,7913
+271 12/04/1972 F Hosp. Distrital de Guarda             Guarda             46 21,5121 162,5 24,8428   77,3575
+273 12/02/1986 M Hosp. Distrital de Portalegre         Portalegre         32 23,4279  96,0  2,8200  566,4748
+274 06/07/1972 M Hosp. Sao Bernardo                    Setubal            46 21,4690 148,0 48,4478  610,3045
+278 27/04/1986 M Hosp. Distrital de Braga              Braga              31 36,0771 143,5 40,1018 1327,6587
+279 09/06/1965 F Hosp. Distrital de Vila Real          Vila Real          52 22,7716 198,5 51,9630 1249,9546
+280 27/08/1986 F Hosp. Distrital de Portalegre         Portalegre         31 31,4470 176,0 17,1717  323,3519
+282 01/06/1988 F Hosp. Distrital de Guarda             Guarda             29 25,7006 100,5 47,5574  911,1458
+284 07/02/1965 F Hosp. Distrital de Braga              Braga              53 31,3236 103,5 26,9396 1327,7489
+287 11/07/1975 M Hosp. Distrital de Braga              Braga              42 36,6554 165,5 27,4235 1604,5737
+288 05/03/1976 M Hosp. Sao Bernardo                    Setubal            41 19,9319 177,0 21,6592 1591,9097
+289 21/05/1986 F Hosp. Distrital de Portalegre         Portalegre         32 22,3481  98,0 50,1113 1278,0667
+290 21/02/1983 F Hosp. Sao Bernardo                    Setubal            34 21,1777 191,0 21,2855  693,4061
+294 12/03/1979 F Hosp. Distrital de Aveiro             Aveiro             39 19,8363 103,5 21,8045 1636,7083
+296 25/06/1989 F Hosp. Garcia da Horta                 Setubal            28 34,5728 107,0 11,4319  521,6952
+297 04/09/1986 M Hosp. Distrital de Viana do Castelo   Viana do Castelo   31 37,0711  59,5 54,8190  116,6304
+299 06/09/1968 M Hosp. Distrital de Viseu              Viseu              49 27,6474  66,0 30,2190  631,7583
+300 03/07/1976 F Hosp. Distrital de Viseu              Viseu              42 29,4900 139,5 51,9844 1183,0315
+301 13/04/1971 F Hosp. Distrital de Braganca           Braganca           47 26,6017  84,0  1,8063  914,8838
+303 30/07/1987 F Hosp. Distrital de Castelo Branco     Castelo Branco     30 33,8200 107,5 49,5652  257,1067
+304 09/03/1998 M Hosp. S. Jose                         Lisboa             20 19,6706 103,5  4,1735  818,2964
+305 17/05/1967 M Hosp. Distrital de Guarda             Guarda             51 26,3699 160,5 19,3426  319,8165
+306 03/02/1995 F Hosp. Distrital de Braga              Braga              23 35,1567 132,0 38,1669 1371,4084
+307 29/03/1986 M Hosp. Distrital de Guarda             Guarda             32 29,9291 172,0 16,5884 1279,1667
+308 09/07/1995 M Hosp. Distrital de Castelo Branco     Castelo Branco     22 36,1977 165,0  9,3126  716,3068
+309 22/04/1967 F Hosp. Distrital de Faro               Faro               51 26,3591 147,0 46,2837  692,9122
+311 30/06/1963 M Hosp. Sao Joao                        Porto              54 22,1389  79,5 52,0501 1609,0972
+312 01/08/1974 F Hosp. Distrital de Leiria             Leiria             43 29,2568 167,5 28,1868 1481,6915
+314 18/09/1966 M Hosp. Eduardo Santos Silva            Porto              52 30,1007 197,5 56,7172  137,4789
+315 10/07/1985 M Hosp. Distrital de Aveiro             Aveiro             33 20,7037 108,0 19,0588  102,1949
+316 04/04/1993 M Hosp. S. Maria                        Lisboa             25 35,7567  73,0 33,4691 1392,9304
+318 23/03/1993 F Hosp. Universitario Coimbra           Coimbra            25 23,4017 162,0  1,9890 1116,2974
+319 11/06/1982 M Hosp. Distrital de Faro               Faro               36 38,0938 185,5 13,6569  180,4137
+320 17/08/1984 F Hosp. Garcia da Horta                 Setubal            33 20,5579 157,5 49,0811  624,8317
+324 25/04/1995 M Hosp. Eduardo Santos Silva            Porto              23 23,1198 106,5 27,7346 1482,9948
+326 27/04/1981 M Hosp. Eduardo Santos Silva            Porto              37 28,4801  87,0  4,9412  911,4138
+327 17/05/1976 M Hosp. Garcia da Horta                 Setubal            41 26,6465 144,0 18,4813 1361,1564
+331 19/08/1975 M Hosp. Distrital de Vila Real          Vila Real          42 22,9792  75,0 54,0964  968,4072
+333 11/02/1982 F Hosp. Distrital de Viana do Castelo   Viana do Castelo   36 24,3811  93,5 39,7338  211,3499
+334 10/02/1966 M Hosp. Distrital de Castelo Branco     Castelo Branco     52 26,0040  90,5  7,2821  910,1727
+335 08/08/1965 M Hosp. Sao Joao                        Porto              52 19,6652 197,0 26,6449 1215,5679
+336 22/09/1974 F Hosp. Distrital de Braga              Braga              43 30,6015 162,5 32,7182  225,6034
+337 07/02/1972 M Hosp. Garcia da Horta                 Setubal            46 34,2665 191,0 24,7211 1365,0581
+338 04/02/1987 M Hosp. Garcia da Horta                 Setubal            31 24,0001 159,5 35,3007  419,7217
+340 23/02/1991 M Hosp. S. Jose                         Lisboa             27 33,0774 137,5  7,5490  675,0464
+343 26/07/1974 F Hosp. Distrital de Santarem           Santarem           43 35,3715 118,0 13,0112  883,4473
+344 08/08/1968 F Hosp. Distrital de Viana do Castelo   Viana do Castelo   49 33,4706 156,5 47,2730 1669,4285
+345 12/09/1979 M Hosp. Garcia da Horta                 Setubal            38 24,7894 100,5 56,8071  254,3630
+349 23/06/1963 M Hosp. Distrital de Viana do Castelo   Viana do Castelo   55 26,7072  68,0 13,5031  798,8565
+352 20/05/1995 M Hosp. Distrital de Beja               Beja               23 35,4958 129,5  7,4782 1088,6656
+353 17/04/1991 F Hosp. Garcia da Horta                 Setubal            27 28,6719 126,5 42,7177  656,5327
+354 11/07/1973 M Hosp. S. Maria                        Lisboa             44 36,4936 108,0 42,8509  708,3828
+355 11/06/1970 F Hosp. Distrital de Castelo Branco     Castelo Branco     47 34,9711 116,0  7,5666 1229,1885
+356 13/09/1989 M Hosp. Distrital de Viana do Castelo   Viana do Castelo   28 18,9866 127,0  3,1161  963,2421
+357 27/03/1988 F Hosp. Garcia da Horta                 Setubal            29 29,3335 152,5 44,7048  783,3344
+359 23/03/1973 F Hosp. Distrital de Faro               Faro               45 22,9783  84,5 31,0406 1704,9548
+360 05/02/1972 F Hosp. Universitario Coimbra           Coimbra            46 24,2102 196,0 34,3591  329,0086
+361 02/04/1974 M Hosp. Sao Bernardo                    Setubal            44 34,6917 113,5  3,4487  605,8749
+363 23/05/1987 M Hosp. Sao Antonio                     Porto              30 24,1563 107,0 14,1536 1071,8809
+364 28/05/1979 F Hosp. Distrital de Braganca           Braganca           39 25,0064  98,5 26,7050  727,3857
+365 01/03/1965 M Hosp. Distrital de Braga              Braga              53 27,3797 137,5 32,6332  872,8765
+366 11/04/1964 F Hosp. Distrital de Castelo Branco     Castelo Branco     53 33,9530 178,0 18,7650 1341,8003
+367 09/02/1988 M Hosp. Distrital de Guarda             Guarda             30 35,6049  95,5 15,5750 1427,4348
+368 25/04/1993 F Hosp. Sao Antonio                     Porto              24 22,6250  80,0 42,7318 1258,1489
+369 11/04/1994 M Hosp. Distrital de Viana do Castelo   Viana do Castelo   24 33,4405 176,5 26,0614   50,3388
+370 17/03/1967 M Hosp. Distrital de Vila Real          Vila Real          51 22,1992  93,5 33,1270  508,4370
+372 30/05/1967 M Hosp. Eduardo Santos Silva            Porto              51 36,0624 177,5 23,6027  183,2569
+373 18/04/1972 F Hosp. Sao Joao                        Porto              46 18,0443  96,5 12,9876 1512,1840
+374 16/06/1953 F Hosp. Sao Bernardo                    Setubal            65 19,4497  64,0 15,8253  703,8867
+376 22/09/1968 F Hosp. Sao Bernardo                    Setubal            49 18,2588 197,5 44,1601  960,7313
+379 05/07/1992 M Hosp. Distrital de Leiria             Leiria             25 32,5283 107,0 57,4390 1487,4393
+380 21/04/1987 F Hosp. Garcia da Horta                 Setubal            31 31,1578  96,5  7,1870  207,0410
+384 01/09/1989 M Hosp. Distrital de Beja               Beja               28 24,4478  64,0 39,6723 1094,1130
+386 01/09/1984 F Hosp. Distrital de Castelo Branco     Castelo Branco     33 37,2903  81,0  8,0363 1345,3748
+387 26/05/1991 F Hosp. Distrital de Beja               Beja               27 28,6719  73,5 10,9630  752,6591
+388 13/09/1968 F Hosp. Distrital de Vila Real          Vila Real          49 33,8334 186,5  4,2298  361,4576
+389 10/04/1988 F Hosp. Sao Joao                        Porto              30 28,0912  85,0 50,4967  149,9323
+390 12/08/1989 F Hosp. Distrital de Faro               Faro               28 25,8672 153,0 41,5994  659,5677
+391 08/05/1981 F Hosp. Distrital de Evora              Evora              36 24,7840  81,5  8,0863 1097,6143
+392 21/09/1974 M Hosp. Distrital de Braganca           Braganca           43 19,1567  67,5  7,8381  158,9865
+393 15/09/1987 F Hosp. Distrital de Leiria             Leiria             30 37,6128 182,5 38,5461  128,5350
+397 03/04/1995 M Hosp. Distrital de Evora              Evora              23 25,8997 121,0 45,1212 1379,0533
+399 10/06/1979 M Hosp. Distrital de Braganca           Braganca           39 29,6287 145,5 29,5822  102,8103
+402 19/04/1996 F Hosp. Garcia da Horta                 Setubal            22 20,4202 170,5 49,5569  946,3960
+403 19/06/1987 F Hosp. Sao Joao                        Porto              30 21,0548  67,0 40,8798 1142,5728
+405 12/04/1964 F Hosp. Distrital de Vila Real          Vila Real          54 31,5189 103,5 33,5942  843,2448
+407 03/05/1964 M Hosp. Eduardo Santos Silva            Porto              53 21,0425  91,5  8,0051 1602,6848
+411 04/04/1979 M Hosp. Distrital de Castelo Branco     Castelo Branco     39 34,6297  77,0 20,8317  492,9030
+413 29/04/1986 F Hosp. Sao Joao                        Porto              32 24,6221 143,5 27,5050  420,1302
+414 20/09/1996 F Hosp. Distrital de Castelo Branco     Castelo Branco     21 24,9728 194,5  4,3507  651,8797
+415 06/04/1964 F Hosp. Universitario Coimbra           Coimbra            54 37,9752 199,5 38,9315  339,9763
+416 15/04/1967 F Hosp. Distrital de Evora              Evora              50 32,7536  96,5 53,9064   71,2905
+422 12/07/1975 F Hosp. Sao Bernardo                    Setubal            42 27,1791  81,5 29,2054  870,8153
+423 11/03/1990 M Hosp. Distrital de Faro               Faro               28 28,8244  78,5 12,2106  181,7108
+424 22/03/1970 F Hosp. Distrital de Santarem           Santarem           48 20,8244  65,0 57,5779  807,3391
+428 14/08/1967 M Hosp. Distrital de Braga              Braga              50 27,6013 190,0 56,2640  262,6361
+431 07/02/1967 F Hosp. Distrital de Viana do Castelo   Viana do Castelo   51 35,2615 149,5 32,9603  826,3848
+432 14/03/1974 M Hosp. Distrital de Portalegre         Portalegre         44 25,3197 107,5 41,5077 1538,8027
+433 14/02/1987 F Hosp. Distrital de Aveiro             Aveiro             31 18,0665  87,0 11,0758  380,2780
+438 18/02/1966 F Hosp. Distrital de Santarem           Santarem           52 30,9561 172,0 40,2310 1408,8287
+439 02/02/1992 M Hosp. Sao Joao                        Porto              26 21,6731 171,5 28,9487  293,2007
+440 12/07/1991 F Hosp. Distrital de Santarem           Santarem           26 21,0372  75,5 56,7775   49,5198
+441 06/02/1997 F Hosp. Distrital de Vila Real          Vila Real          21 35,9592 192,5 51,5275 1288,1284
+444 13/08/1940 F Hosp. Eduardo Santos Silva            Porto              77 20,1924 122,5 11,5136  212,5251
+445 14/05/1964 F Hosp. Distrital de Castelo Branco     Castelo Branco     53 27,7371  78,5 16,5917 1152,3710
+446 27/04/1967 M Hosp. Distrital de Beja               Beja               51 27,1950 176,5 38,3059 1437,5109
+448 27/06/1978 M Hosp. S. Jose                         Lisboa             39 31,7681 181,0 24,8698 1474,3455
+449 06/07/1988 M Hosp. Distrital de Braga              Braga              30 28,3909 188,5 40,4738  171,8516
+450 17/05/1981 F Hosp. Distrital de Portalegre         Portalegre         37 18,3013 174,5 29,4157  896,1699
+452 07/08/1973 M Hosp. Distrital de Braga              Braga              44 34,0293  89,5 12,7348 1484,4725
+455 15/04/1988 F Hosp. Distrital de Portalegre         Portalegre         30 18,6296 156,5 28,5767  343,1801
+459 27/07/1978 F Hosp. Distrital de Beja               Beja               39 35,2490 169,5 21,1893  280,3814
+461 12/08/1964 F Hosp. Distrital de Castelo Branco     Castelo Branco     53 25,6466  84,5 38,6576  725,6599
+465 14/03/1969 F Hosp. Eduardo Santos Silva            Porto              49 19,3363  75,5 22,9498  221,7041
+467 07/05/1977 F Hosp. Sao Joao                        Porto              40 30,1040 124,0 14,5616 1335,1877
+470 04/02/1975 M Hosp. Distrital de Leiria             Leiria             43 19,1904 151,0 28,1078  511,3282
+471 06/08/1997 M Hosp. Eduardo Santos Silva            Porto              20 37,0795  73,5 17,6028 1125,9656
+472 22/07/1994 F Hosp. Sao Bernardo                    Setubal            23 30,7706 169,5 37,0975 1635,4246
+477 15/05/1976 F Hosp. Distrital de Braga              Braga              42 22,0280 172,5  6,8091 1021,3809
+479 31/01/1991 F Hosp. Distrital de Castelo Branco     Castelo Branco     27 27,9819 140,5 33,7290 1654,3042
+480 02/09/1965 M Hosp. Distrital de Guarda             Guarda             52 21,7463 158,5 13,4096 1265,4855
+482 18/09/1963 F Hosp. Universitario Coimbra           Coimbra            54 26,0879 116,5 50,5031   44,4744
+485 24/02/1969 F Hosp. Distrital de Vila Real          Vila Real          49 22,9850 170,0 50,7120   60,7685
+490 31/08/1988 M Hosp. Sao Antonio                     Porto              30 21,0875  85,0 35,0210  737,7252
+492 08/03/1982 M Hosp. Distrital de Portalegre         Portalegre         36 27,5287  97,5 55,2918  577,1955
+496 15/05/1966 F Hosp. Distrital de Beja               Beja               52 36,3078 123,5  7,7265 1192,6011
+497 18/03/1966 M Hosp. Distrital de Vila Real          Vila Real          52 37,9632 165,5 48,1353  115,1113
+498 23/04/1967 M Hosp. Distrital de Faro               Faro               50 24,0056 107,5 54,1300  562,3815
+499 12/09/1987 F Hosp. Universitario Coimbra           Coimbra            30 21,0855  70,0 14,1565 1563,0734
+---- fim ----
+
+280 elements were copied to queue!
